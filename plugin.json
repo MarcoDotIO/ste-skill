@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ste-skill",
+  "version": "1.0.0",
+  "description": "Write and review documentation with ASD-STE100 Simplified Technical English guidance.",
+  "author": { "name": "MarcoDotIO", "url": "https://github.com/MarcoDotIO" },
+  "homepage": "https://github.com/MarcoDotIO/ste-skill",
+  "repository": "https://github.com/MarcoDotIO/ste-skill",
+  "license": "MIT",
+  "keywords": ["asd-ste100", "simplified-technical-english", "documentation", "writing", "skills"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "STE Documentation",
+        "shortDescription": "Write clear documents with ASD-STE100 guidance",
+        "longDescription": "Draft, revise, and review human-facing documents. Preserve technical meaning, control terminology, and check STE writing rules. Full conformity needs the official standard and dictionary review.",
+        "developerName": "MarcoDotIO",
+        "category": "Productivity",
+        "defaultPrompt": ["Use the asd-ste100 skill to write this documentation in Simplified Technical English."]
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "ASD-STE100 Documentation"
+  short_description: "Write clear documents with ASD-STE100 guidance"
+  default_prompt: "Use $asd-ste100 to write this documentation in Simplified Technical English and preserve its technical meaning."
+policy:
+  allow_implicit_invocation: true

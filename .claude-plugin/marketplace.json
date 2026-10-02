@@ -1,0 +1,17 @@
+{
+  "name": "ste-skill",
+  "metadata": {
+    "description": "The ASD-STE100 documentation skill by MarcoDotIO."
+  },
+  "owner": {
+    "name": "MarcoDotIO",
+    "url": "https://github.com/MarcoDotIO"
+  },
+  "plugins": [
+    {
+      "name": "ste-skill",
+      "source": "./",
+      "description": "Write and review documentation and human-facing documents with ASD-STE100 guidance."
+    }
+  ]
+}

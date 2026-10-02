@@ -1,0 +1,7 @@
+{
+  "name": "ste-skill",
+  "version": "1.0.0",
+  "description": "Write and review documentation with ASD-STE100 Simplified Technical English guidance.",
+  "author": { "name": "MarcoDotIO" },
+  "skills": "./skills/"
+}

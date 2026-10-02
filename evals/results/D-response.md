@@ -1,0 +1,1 @@
+I cannot certify full ASD-STE100 compliance for this sentence. The official dictionary and full rule review are unavailable. The permitted meanings and vocabulary status of “widget,” “optimizes,” and “telemetry” remain unverified.

@@ -1,0 +1,13 @@
+{
+  "name": "ste-skill",
+  "version": "1.0.0",
+  "description": "Write and review documentation and human-facing documents with ASD-STE100 guidance.",
+  "author": {
+    "name": "MarcoDotIO",
+    "url": "https://github.com/MarcoDotIO"
+  },
+  "homepage": "https://github.com/MarcoDotIO/ste-skill",
+  "repository": "https://github.com/MarcoDotIO/ste-skill",
+  "license": "MIT",
+  "keywords": ["asd-ste100", "simplified-technical-english", "documentation", "technical-writing"]
+}

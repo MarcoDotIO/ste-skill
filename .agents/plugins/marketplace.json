@@ -1,0 +1,12 @@
+{
+  "name": "ste-skill-marketplace",
+  "interface": { "displayName": "STE Documentation" },
+  "plugins": [
+    {
+      "name": "ste-skill",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
